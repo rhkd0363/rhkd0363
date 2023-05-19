@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![COBBY_BADGE](https://cobby-play.com/api/user/badge/rhkd0363)
 
 <!--
