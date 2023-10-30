@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhkd0363%2Fhit-counter&count_bg=%2376DFC1&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
 <a href="mailto:rhkd0363@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://shk-portfolio.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%20?label=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F&labelColor=blue&color=blue&style=flat-square"/></a>
-
+<a href="https://github.com/rhkd0363/rhkd0363/files/13207748/_._.pdf" download><img src="https://img.shields.io/badge/📄Click to download as PDF!-%20?label=portfolio&labelColor=black&color=grey&style=flat-square"/></a>
 
 <div>
   
